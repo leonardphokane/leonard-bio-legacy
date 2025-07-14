@@ -49,7 +49,13 @@ This biography isn’t static — it’s version-controlled. 🌍✨
 
 🔗 Explore the archive: leonardphokane.github.io/leonard-bio-legacy
 
-#PLPCommunity #AIForGood #EthicalTech #LegacyInCode #FairnessByDesign
+🤝 Connect with Leonard Phokane
+» 🗨️ Discord: leonardphokane » 💻 GitHub: github.com/leonardphokane
+
+Let’s build tech that reflects our stories and scales our impact.
+
+🔖 Hashtags
+#1MillionDevs4Africa #PowerLearnProject #PowerCommunity #LegacyInCode #FairnessByDesign
 
 
 ### 🎓 Legacy Gallery
