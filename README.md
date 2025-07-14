@@ -3,13 +3,14 @@
 Named after da Vinci. Built in Limpopo. Rising with Purpose.
 
 ![Legacy Banner](./MEDIA/legacy-banner.png)
-### 🚀 PLP Academy Highlights
+
+### ⚖️ Fairness & Community Highlights
 
 <table>
   <tr>
     <td align="center">
-      <img src="./MEDIA/plp-banner.png" alt="PLP Banner" width="300"/><br/>
-      <strong>PLP Academy Banner</strong>
+      <img src="./MEDIA/fairness-inspector.png" alt="Fairness Inspector Badge" width="300"/><br/>
+      <strong>Fairness Inspector — COMPAS Audit</strong>
     </td>
     <td align="center">
       <img src="./MEDIA/PLP-padlet-entry.png" alt="PLP Padlet Entry" width="300"/><br/>
@@ -17,6 +18,7 @@ Named after da Vinci. Built in Limpopo. Rising with Purpose.
     </td>
   </tr>
 </table>
+
 
 
 Welcome to the digital archive of my journey — where code meets culture, and legacy is written line by line.  
