@@ -27,24 +27,16 @@ This repo reflects the heartbeat of my impact: projects, insights, metaphors, an
 
 ### 🎓 Legacy Gallery
 
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+**Legacy Banner**  
+![Legacy Banner](./MEDIA/legacy-banner.png)
 
-  <div style="text-align: center;">
-    <img src="./MEDIA/legacy-banner.png" alt="Legacy Banner" width="250"/>
-    <p><strong>Legacy Banner</strong></p>
-  </div>
+**Graduation Day**  
+![Graduation Photo](./MEDIA/graduation-photo.jpg)
 
-  <div style="text-align: center;">
-    <img src="./MEDIA/graduation-photo.jpg" alt="Graduation Photo" width="250"/>
-    <p><strong>Graduation Day</strong></p>
-  </div>
+**PLPCommunity Post**  
+![PLP Padlet Entry](./MEDIA/PLP-padlet-entry.jpg)
 
-  <div style="text-align: center;">
-    <img src="./MEDIA/PLP-padlet-entry.jpg" alt="PLP Padlet Entry" width="250"/>
-    <p><strong>PLPCommunity Post</strong></p>
-  </div>
 
-</div>
 
 
 
