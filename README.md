@@ -3,6 +3,21 @@
 Named after da Vinci. Built in Limpopo. Rising with Purpose.
 
 ![Legacy Banner](./MEDIA/legacy-banner.png)
+### 🚀 PLP Academy Highlights
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="./MEDIA/plp-banner.png" alt="PLP Banner" width="300"/><br/>
+      <strong>PLP Academy Banner</strong>
+    </td>
+    <td align="center">
+      <img src="./MEDIA/PLP-padlet-entry.png" alt="PLP Padlet Entry" width="300"/><br/>
+      <strong>PLPCommunity Post</strong>
+    </td>
+  </tr>
+</table>
+
 
 Welcome to the digital archive of my journey — where code meets culture, and legacy is written line by line.  
 From Magabaneng to PLP, I’ve woven ethical AI, fairness audits, and storytelling into every byte.  
@@ -34,7 +49,11 @@ This repo reflects the heartbeat of my impact: projects, insights, metaphors, an
 ![Graduation Photo](./MEDIA/graduation-photo.jpg)
 
 **PLPCommunity Post**  
-![PLP Padlet Entry](./MEDIA/PLP-padlet-entry.jpg)
+📸 Title: PLPCommunity Post  
+📝 Caption: “I build systems that speak our languages and solve our problems.”  
+🎨 Style: Da Vinci parchment meets Pan-African tech — warm tones, bold quote overlay, subtle circuit patterns  
+📁 Suggested Filename: `plpcommunity-post.png`
+
 
 
 
