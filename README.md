@@ -41,6 +41,16 @@ This repo reflects the heartbeat of my impact: projects, insights, metaphors, an
 ![PLP Academy Certified](https://img.shields.io/badge/PLP%20Academy-Certified-blueviolet)  
 ![Repo Size](https://img.shields.io/github/repo-size/leonardphokane/leonard-bio-legacy)  
 ![Last Commit](https://img.shields.io/github/last-commit/leonardphokane/leonard-bio-legacy)
+🚀 From PLP learner to Fairness Inspector.
+
+I just published my legacy archive — a living repo of impact, storytelling, and ethical systems, built line by line.
+
+This biography isn’t static — it’s version-controlled. 🌍✨
+
+🔗 Explore the archive: leonardphokane.github.io/leonard-bio-legacy
+
+#PLPCommunity #AIForGood #EthicalTech #LegacyInCode #FairnessByDesign
+
 
 ### 🎓 Legacy Gallery
 
