@@ -33,7 +33,14 @@ This repo reflects the heartbeat of my impact: projects, insights, metaphors, an
 - [`MEDIA/`](./MEDIA) – Visual artifacts  
 - [`padlet-links.md`](./padlet-links.md) – PLPCommunity posts
 
-![Profile Card](./MEDIA/profile-card.png)
+### 🧠 Leonard: By Name, Visionary By Nature
+![Profile-card](MEDIA/Profile-card.png)
+
+- **Title**: Leonard: By Name, Visionary By Nature  
+- **Theme**: Identity, Renaissance Inspiration  
+- **Origin**: Branding Profile Card  
+- **Message**: Channeling da Vinci’s spirit through ethical systems, storytelling, and fair innovation
+
 ## 🛡️ Badges
 ![License](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)  
 ![Status](https://img.shields.io/badge/Repo-Active-brightgreen)  
