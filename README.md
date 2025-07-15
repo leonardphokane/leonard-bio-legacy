@@ -46,6 +46,16 @@ This repo reflects the heartbeat of my impact: projects, insights, metaphors, an
 I just published my legacy archive — a living repo of impact, storytelling, and ethical systems, built line by line.
 
 This biography isn’t static — it’s version-controlled. 🌍✨
+## 🎞️ Motivational Archive
+
+### 🖼️ Edison’s Gospel of Growth
+![Edison-Gospel](MEDIA/Archive/Motivation/Edison-Gospel.jpg)
+
+- **Title**: Edison’s Gospel of Growth  
+- **Theme**: Lifelong Learning, Innovation  
+- **Origin**: Lightboard Quote Scene  
+- **Message**: Pursue knowledge relentlessly, even when the wiring sparks failure
+
 
 🔗 Explore the archive: leonardphokane.github.io/leonard-bio-legacy
 
