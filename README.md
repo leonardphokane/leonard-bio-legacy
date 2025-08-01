@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🕵️‍♂️ Responsible AI Inspector
 
 A short case study collection investigating how artificial intelligence systems can go wrong — and how we can design them better. Created as part of a Responsible AI assignment for the PLP program, this repo showcases ethics in action through two fictional scenarios.
@@ -26,3 +27,6 @@ Ethical AI Advocate | Creative Technologist
 
 ## ✨ Use This Format
 Got your own AI ethics story? Fork this repo and submit your case — let's make bias visible and accountability non-negotiable.
+=======
+# leonard-bio-legacy
+>>>>>>> de9b46e34f9ce7719e00934bb861b6a185549292
