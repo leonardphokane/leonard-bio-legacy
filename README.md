@@ -174,7 +174,7 @@ This portfolio reflects:
 
 
 ## 🧠 Core Technical Skills
- Frontend Development: React.js, Vite, Tailwind CSS, HTML5, CSS3, JavaScript ES6+
+ - Frontend Development: React.js, Vite, Tailwind CSS, HTML5, CSS3, JavaScript ES6+
 
 - Backend Development: Express.js, Node.js, Java (Spring Boot), RESTful APIs, JWT Authentication
 
