@@ -147,7 +147,7 @@ To build inclusive systems, amplify voices through code, and make tech a mirror 
 
 ## 💼 Portfolio
 <!-- 👤 Profile Image -->
-  <img src="./MEDIA/leonard-profile.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
+  <img src="leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
   <p><strong>Author:</strong> Leonard Phokane</p>
   <p><strong>Email:</strong> leonardphokane1@gmail.com</p>
   <p><strong>Phone:</strong> +27 72 350 7514</p>
