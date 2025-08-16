@@ -164,11 +164,13 @@ This portfolio reflects:
 ---
 
 ## 🎓 Journey Highlights
-- 📚 Foundations in education and curiosity
-- ⚙️ Degree in Information Technology at UNISA
-- 🚀 Power Learn Project → Flutter, Ethical AI, Blockchain
-- 🌍 Launched ZuluTech, KaziLink, and Fairness Inspector
-- 📖 Authored: *Rooted in Purpose, Rising with Code*
+- 📚 Foundations in education and curiosity  
+- ⚙️ Degree in Information Technology at UNISA  
+- 🚀 Power Learn Project → Flutter, Ethical AI, Blockchain  
+- 🌍 Launched ZuluTech, KaziLink, and Fairness Inspector  
+- 📖 Authored: *Rooted in Purpose, Rising with Code*  
+- 🧠 Currently enrolled in AI Literacy and Generative AI courses (Otermans Institute, NVIDIA DLI)
+
 
 
 ## 🧠 Core Technical Skills
