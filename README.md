@@ -146,6 +146,11 @@ This portfolio reflects:
 To build inclusive systems, amplify voices through code, and make tech a mirror of justice.
 
 ## 💼 Portfolio
+<!-- 👤 Profile Image -->
+  <img src="assets/leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
+  <p><strong>Author:</strong> Leonard Phokane</p>
+  <p><strong>Email:</strong> leonardphokane1@gmail.com</p>
+  <p><strong>Phone:</strong> +27 72 350 7514</p>
 Explore my creative tech archive:  
 <!-- 🌐 Portfolio Pitch Deck -->
   <p><strong>Pitch Deck → [View on Canva]:</strong> 
