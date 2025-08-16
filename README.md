@@ -19,6 +19,8 @@ A short case study collection investigating how artificial intelligence systems 
 ## ✍️ Blog-Style Narratives
 Each case is written like a mini blog post — accessible, thoughtful, and inspector-themed. Full write-up in `CASE_NOTES.md`.
 
+--- 
+
 ## 👤 Author
 **Leonard Phokane**  
 # Founder & Full-Stack Developer 
