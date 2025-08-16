@@ -24,6 +24,13 @@ Each case is written like a mini blog post — accessible, thoughtful, and inspe
 Ethical AI Advocate | Creative Technologist  
 🔗 [GitHub Portfolio](https://github.com/leonardphokane)  
 🌐 [Portfolio Site](https://phokane-creative-code.lovable.app/)
+<!-- 🌐 Portfolio Pitch Deck -->
+  <p><strong>Pitch Deck → [View on Canva]:</strong> 
+    <a href="https://www.canva.com/design/DAGvvjHEiWY/keOsv3FGywlRS_Rm5YLsEQ/edit?ui=e30
+" target="_blank">
+    Pitch Deck → [View on Canva] 
+    </a>
+  </p>
 
 ## ✨ Use This Format
 Got your own AI ethics story? Fork this repo and submit your case — let's make bias visible and accountability non-negotiable.
