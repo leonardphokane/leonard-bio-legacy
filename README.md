@@ -27,10 +27,7 @@ Ethical AI Advocate | Creative Technologist
 
 ## ✨ Use This Format
 Got your own AI ethics story? Fork this repo and submit your case — let's make bias visible and accountability non-negotiable.
-=======
-# leonard-bio-legacy
->>>>>>> de9b46e34f9ce7719e00934bb861b6a185549292
-=======
+
 # 👨🏾‍💻 Legacy in Code: The Leonard Phokane Story
 
 Named after da Vinci. Built in Limpopo. Rising with Purpose.
@@ -135,4 +132,4 @@ Explore my creative tech archive:
 [phokane-creative-code.lovable.app](https://phokane-creative-code.lovable.app)
 
 
->>>>>>> 032f4895575006fe55ce4c9d97169ea81d44abec
+
