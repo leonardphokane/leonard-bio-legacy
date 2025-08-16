@@ -24,13 +24,6 @@ Each case is written like a mini blog post — accessible, thoughtful, and inspe
 Ethical AI Advocate | Creative Technologist  
 🔗 [GitHub Portfolio](https://github.com/leonardphokane)  
 🌐 [Portfolio Site](https://phokane-creative-code.lovable.app/)
-<!-- 🌐 Portfolio Pitch Deck -->
-  <p><strong>Pitch Deck → [View on Canva]:</strong> 
-    <a href="https://www.canva.com/design/DAGvvjHEiWY/keOsv3FGywlRS_Rm5YLsEQ/edit?ui=e30
-" target="_blank">
-    Pitch Deck → [View on Canva] 
-    </a>
-  </p>
 
 ## ✨ Use This Format
 Got your own AI ethics story? Fork this repo and submit your case — let's make bias visible and accountability non-negotiable.
@@ -126,7 +119,25 @@ Let’s build tech that reflects our stories and scales our impact.
 🎨 Style: Da Vinci parchment meets Pan-African tech — warm tones, bold quote overlay, subtle circuit patterns  
 📁 Suggested Filename: `plpcommunity-post.png`
 
+## 🎨 Brand Narrative
 
+This portfolio reflects:
+
+- **Afro-futurism** — innovation through cultural identity  
+- **Ethical Tech** — design with dignity and accessibility  
+- **Cloud-readiness** — scalable systems and modular components
+
+---
+
+## 📦 Project Highlights
+
+- 🔧 Modular project cards with embedded images  
+- 📱 Mobile-first layout with smooth transitions  
+- 🧠 Sections for Kazilink, Zulutech, Send Money App, Fairness Inspector, and AWS deployments  
+- 📄 Footer with grid layout and hover effects  
+- 🎯 Animated role banner: Full Stack Developer | Web Designer | Flutter App Developer
+
+---
 
 
 
@@ -136,7 +147,19 @@ To build inclusive systems, amplify voices through code, and make tech a mirror 
 
 ## 💼 Portfolio
 Explore my creative tech archive:  
-[phokane-creative-code.lovable.app](https://phokane-creative-code.lovable.app)
+<!-- 🌐 Portfolio Pitch Deck -->
+  <p><strong>Pitch Deck → [View on Canva]:</strong> 
+    <a href="https://www.canva.com/design/DAGvvjHEiWY/keOsv3FGywlRS_Rm5YLsEQ/edit?ui=e30
+" target="_blank">
+    Pitch Deck → [View on Canva] 
+    </a>
+  </p>
+ <!-- 🌐 Personal Website Link -->
+  <p><strong>Personal Website:</strong> 
+    <a href="https://leonardphokane.github.io/hackathon-portfolio/" target="_blank">
+      phokane-creative-code.lovable.app
+    </a>
+  </p>
 
 
 
