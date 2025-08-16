@@ -21,7 +21,8 @@ Each case is written like a mini blog post — accessible, thoughtful, and inspe
 
 ## 👤 Author
 **Leonard Phokane**  
-Ethical AI Advocate | Creative Technologist  
+# Founder & Full-Stack Developer 
+Self-Employed | 2017–Present
 🔗 [GitHub Portfolio](https://github.com/leonardphokane)  
 🌐 [Portfolio Site](https://phokane-creative-code.lovable.app/)
 
@@ -153,11 +154,23 @@ This portfolio reflects:
 - 🌍 Launched ZuluTech, KaziLink, and Fairness Inspector
 - 📖 Authored: *Rooted in Purpose, Rising with Code*
 
-## 🛠 Skills Applied
-- Flutter Development
-- Ethical Tech & Fairness Auditing
-- Afro-Futurist Branding
-- Creative Direction
+
+## 🧠 Core Technical Skills
+Frontend Development: React.js, Vite, Tailwind CSS, HTML5, CSS3, JavaScript ES6+
+
+Backend Development: Express.js, Node.js, Java (Spring Boot), RESTful APIs, JWT Authentication
+
+Mobile Development: Flutter, Dart, Firebase, TFLite (AI integration)
+
+Real-Time Communication: Socket.io, WebSockets, modular chat architecture
+
+Database Management: MongoDB, MySQL, PostgreSQL, schema design & optimization
+
+DevOps: Git, CI/CD, .env security, deployment automation
+
+AI & Data: Hugging Face Transformers, NVIDIA Playground, ethical AI integration
+
+Tools: Postman, Thunder Client, Canva, Padlet, GitHub Copilot
 
 ## 🔗 Key Links
 - 🌍 **Portfolio Website**: [Explore Projects](https://leonardphokane.github.io/hackathon-portfolio/)
@@ -172,6 +185,7 @@ This portfolio reflects:
 To build inclusive systems, amplify voices through code, and make tech a mirror of justice.
 
 ## 💼 Portfolio
+
 <!-- 👤 Profile Image -->
   <img src="leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
   <p><strong>Author:</strong> Leonard Phokane</p>
