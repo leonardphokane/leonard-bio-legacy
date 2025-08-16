@@ -24,9 +24,15 @@ Each case is written like a mini blog post — accessible, thoughtful, and inspe
 ## 👤 Author
 <!-- 👤 Profile Image -->
   <img src="leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
-  <p><strong>**Leonard Phokane**</strong> Founder & Full-Stack Developer </p>
+  <p><strong>**Leonard Phokane**</strong> </p>
  
-Self-Employed | 2017–Present
+## Freelance Full-Stack Developer Self-Employed | 2015–Present
+
+- Delivered MERN stack applications, API integrations, and visual branding for clients
+
+- Specialized in troubleshooting npm/network issues and modular test suite design
+
+- Supported youth empowerment initiatives through open-source contributions
 
 🔗 [GitHub Portfolio](https://github.com/leonardphokane)  
 🌐 [Portfolio Site](https://phokane-creative-code.lovable.app/)
@@ -161,21 +167,21 @@ This portfolio reflects:
 
 
 ## 🧠 Core Technical Skills
-Frontend Development: React.js, Vite, Tailwind CSS, HTML5, CSS3, JavaScript ES6+
+ Frontend Development: React.js, Vite, Tailwind CSS, HTML5, CSS3, JavaScript ES6+
 
-Backend Development: Express.js, Node.js, Java (Spring Boot), RESTful APIs, JWT Authentication
+- Backend Development: Express.js, Node.js, Java (Spring Boot), RESTful APIs, JWT Authentication
 
-Mobile Development: Flutter, Dart, Firebase, TFLite (AI integration)
+- Mobile Development: Flutter, Dart, Firebase, TFLite (AI integration)
 
-Real-Time Communication: Socket.io, WebSockets, modular chat architecture
+- Real-Time Communication: Socket.io, WebSockets, modular chat architecture
 
-Database Management: MongoDB, MySQL, PostgreSQL, schema design & optimization
+- Database Management: MongoDB, MySQL, PostgreSQL, schema design & optimization
 
-DevOps: Git, CI/CD, .env security, deployment automation
+- DevOps: Git, CI/CD, .env security, deployment automation
 
-AI & Data: Hugging Face Transformers, NVIDIA Playground, ethical AI integration
+- AI & Data: Hugging Face Transformers, NVIDIA Playground, ethical AI integration
 
-Tools: Postman, Thunder Client, Canva, Padlet, GitHub Copilot
+- Tools: Postman, Thunder Client, Canva, Padlet, GitHub Copilot
 
 ## 🔗 Key Links
 - 🌍 **Portfolio Website**: [Explore Projects](https://leonardphokane.github.io/hackathon-portfolio/)
