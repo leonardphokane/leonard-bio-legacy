@@ -39,8 +39,8 @@ As a self-employed full-stack developer, I’ve led the design, development, and
 - Built ethical AI dashboards and fairness tools using **Python APIs** and **TFLite**
 - Delivered branded documentation, pitch decks, and recruiter-facing portfolios using **Canva** and **Padlet**
 
-🔗 [GitHub Portfolio](https://github.com/leonardphokane)  
-🌐 [Portfolio Site](https://phokane-creative-code.lovable.app/)
+🔗 [GitHub](https://github.com/leonardphokane) | 🔗 [LinkedIn](https://linkedin.com/in/leonard-phokane) | 🌐 [Portfolio](https://phokane-creative-code.lovable.app)
+
 
 ## ✨ Use This Format
 Got your own AI ethics story? Fork this repo and submit your case — let's make bias visible and accountability non-negotiable.
