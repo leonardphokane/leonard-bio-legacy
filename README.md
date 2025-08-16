@@ -139,7 +139,26 @@ This portfolio reflects:
 
 ---
 
+## 🎓 Journey Highlights
+- 📚 Foundations in education and curiosity
+- ⚙️ Degree in Information Technology at UNISA
+- 🚀 Power Learn Project → Flutter, Ethical AI, Blockchain
+- 🌍 Launched ZuluTech, KaziLink, and Fairness Inspector
+- 📖 Authored: *Rooted in Purpose, Rising with Code*
 
+## 🛠 Skills Applied
+- Flutter Development
+- Ethical Tech & Fairness Auditing
+- Afro-Futurist Branding
+- Creative Direction
+
+## 🔗 Key Links
+- 🌍 **Portfolio Website**: [Explore Projects](https://leonardphokane.github.io/hackathon-portfolio/)
+- 🐙 **GitHub**: [View Source Code](https://github.com/leonardphokane)
+- 💼 **LinkedIn**: [Connect Professionally](https://www.linkedin.com/in/leonard-phokane)
+- 💬 **Discord**: `LeonardPhokane#1047`
+- 📘 **Pitch Presentation**: [View Updated Deck](https://www.canva.com/design/DAGvvjHEiWY/keOsv3FGywlRS_Rm5YLsEQ/edit?ui=e30)
+- 🗂️ **Padlet Archive**: [My Distinguished Padlet](https://padlet.com/plp9/my-distinguished-padlet-obiq9mj5yr6u1mxo)
 
 
 ## 🔥 Mission Statement
