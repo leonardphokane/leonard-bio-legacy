@@ -162,7 +162,7 @@ Explore my creative tech archive:
  <!-- 🌐 Personal Website Link -->
   <p><strong>Personal Website:</strong> 
     <a href="https://leonardphokane.github.io/hackathon-portfolio/" target="_blank">
-      phokane-creative-code.lovable.app
+      UI Design Portfolio Website
     </a>
   </p>
 
