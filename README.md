@@ -101,8 +101,15 @@ This biography isn’t static — it’s version-controlled. 🌍✨
 
 Let’s build tech that reflects our stories and scales our impact.
 
-🔖 Hashtags
-#1MillionDevs4Africa #PowerLearnProject #PowerCommunity #LegacyInCode #FairnessByDesign
+ > “I believe technology rooted in culture empowers us to build what truly matters.” — Leonard Phokane
+
+Built with resilience and vision, the project reflects storytelling through code, modular mastery, and ethical tech principles.
+
+## 🔖 Community Tags
+
+`#PowerLearnProject` `#PowerCommunity` `#1MillionDevs4Africa` `#LegacyInCode` `#FairnessByDesign`
+
+---
 
 
 ### 🎓 Legacy Gallery
