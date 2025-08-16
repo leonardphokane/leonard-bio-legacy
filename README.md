@@ -22,8 +22,11 @@ Each case is written like a mini blog post — accessible, thoughtful, and inspe
 --- 
 
 ## 👤 Author
-**Leonard Phokane**  
-# Founder & Full-Stack Developer 
+<!-- 👤 Profile Image -->
+  <img src="leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
+  <p><strong>Author:</strong> **Leonard Phokane**</p>
+** Founder & Full-Stack Developer **  
+
 Self-Employed | 2017–Present
 🔗 [GitHub Portfolio](https://github.com/leonardphokane)  
 🌐 [Portfolio Site](https://phokane-creative-code.lovable.app/)
