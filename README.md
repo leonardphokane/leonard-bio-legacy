@@ -26,13 +26,18 @@ Each case is written like a mini blog post — accessible, thoughtful, and inspe
   <img src="leonard.png" alt="Leonard Phokane" style="width:120px; height:auto; border-radius:8px; margin-bottom:10px;" />
   <p><strong>**Leonard Phokane**</strong> </p>
  
-## Freelance Full-Stack Developer Self-Employed | 2015–Present
+## 👨🏾‍💻 Freelance Full-Stack Developer  
+**Self-Employed | 2015–Present**
 
-- Delivered MERN stack applications, API integrations, and visual branding for clients
+As a self-employed full-stack developer, I’ve led the design, development, and deployment of scalable web and mobile applications across diverse industries. My work blends modular engineering with cultural storytelling, empowering communities through ethical, accessible tech.
 
-- Specialized in troubleshooting npm/network issues and modular test suite design
-
-- Supported youth empowerment initiatives through open-source contributions
+### 🔧 Core Responsibilities
+- Architected full-stack solutions using **React.js**, **Node.js (Express)**, **MongoDB**, and **Flutter**
+- Developed RESTful APIs with JWT authentication and real-time features via **Socket.io**
+- Integrated **CI/CD pipelines** using GitHub Actions for automated deployment and testing
+- Designed mobile-first UIs with **Tailwind CSS**, **Vite**, and **Firebase**
+- Built ethical AI dashboards and fairness tools using **Python APIs** and **TFLite**
+- Delivered branded documentation, pitch decks, and recruiter-facing portfolios using **Canva** and **Padlet**
 
 🔗 [GitHub Portfolio](https://github.com/leonardphokane)  
 🌐 [Portfolio Site](https://phokane-creative-code.lovable.app/)
